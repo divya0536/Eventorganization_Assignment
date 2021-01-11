@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demoassign
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: krishna
+Implementation-Vendor-Id: com.demoassign
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://spring.io/projects/spring-boot/demoassign
+Created-By: Maven Integration for Eclipse
+
